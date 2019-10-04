@@ -1,5 +1,29 @@
 {
 	"pages": [{
+			"path": "pages/dirsir/foods",
+			"style": {
+				"backgroundColor":"#FFFFFF",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/dirsir/education",
+			"style": {
+				"backgroundColor":"#FFFFFF",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/dirsir/clothes",
+			"style": {
+				"backgroundColor":"#FFFFFF",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
 			"path": "pages/dirsir/hair",
 			"style": {
 				"backgroundColor":"#FFFFFF",
