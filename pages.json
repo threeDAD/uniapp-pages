@@ -1,6 +1,46 @@
 {
-	"pages": [
+	"pages": [{
+			"path": "pages/dirsir/hair",
+			"style": {
+				"backgroundColor":"#FFFFFF",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},{
+			"path": "pages/dirsir/pay",
+			"style": {
+				"backgroundColor":"#FFFFFF",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
 		{
+			"path": "pages/dirsir/spa",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, {
+			"path": "pages/dirsir/weeding",
+			"style": {
+				"navigationBarTitleText": "巴黎婚纱摄影（公明总店）",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/dirsir/dirsir",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, {
 			"path": "pages/Tadpole/page1"
 		},
 		{
@@ -156,30 +196,30 @@
 			"style": {
 				"navigationBarTitleText": "支付成功"
 			}
-		}
-	    ,{
-            "path" : "pages/notice/notice",
-            "style" : {
+		}, {
+			"path": "pages/notice/notice",
+			"style": {
 				"navigationBarTitleText": "通知"
 			}
-        }
-        ,{
-            "path" : "pages/category/category",
-            "style" : {
+		}, {
+			"path": "pages/category/category",
+			"style": {
 				"navigationBarTitleText": "分类",
 				"app-plus": {
 					"bounce": "none"
 				}
 			}
-        }
-        ,{
-            "path" : "pages/product/list",
-            "style" : {
+		}, {
+			"path": "pages/product/list",
+			"style": {
 				"enablePullDownRefresh": true,
 				"navigationBarTitleText": "商品列表"
 			}
-        }
-    ],
+		}, {
+			"path": "pages/dirsir/dirsir",
+			"style": {}
+		}
+	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
