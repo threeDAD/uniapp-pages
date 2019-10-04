@@ -219,7 +219,16 @@
 			"path": "pages/dirsir/dirsir",
 			"style": {}
 		}
-	],
+	    ,{
+            "path" : "pages/pages/hotel/hotel",
+            "style" : {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
