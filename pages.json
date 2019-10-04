@@ -228,6 +228,16 @@
 				}
 			}
         }
+        
+        ,{
+            "path" : "pages/pages/meal/meal",
+            "style" : {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
