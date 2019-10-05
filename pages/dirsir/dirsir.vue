@@ -246,6 +246,7 @@
 	}
 
 	.i_address_top text {
+		font-size: 30upx;
 		font-weight: 900;
 	}
 
