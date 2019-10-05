@@ -67,8 +67,6 @@
 		{
 			"path": "pages/Tadpole/page1"
 		}
-
-	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
